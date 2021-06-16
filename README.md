@@ -3,6 +3,9 @@ For the GMTK 2021 48hr Game Jam
 
 ## How to run
 
+Download the repository for all the Unity Editor files.
+Download only the _Builds folder for just the final playable game build.
+
 Run ths game by downloading the repository and running _Builds\Blazeline.exe
 
 Alternatively, you can download just the final game files here (recommended):
