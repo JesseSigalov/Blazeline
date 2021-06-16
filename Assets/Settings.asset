@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5afdecb2ec867ed458aeb0c7046cfc88, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  horizontalSpeed: 850
+  jumpForce: 1000
+  groundDetectionRadius: 0.6
+  defaultGravityScale: 3
+  fallMultiplier: 4
+  lowJumpMultiplier: 8
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 8
+  segments: 25
+  segmentLength: 0.01
+  lineWidth: 0.1
+  shrinkSpeed: 0.6
+  maxRadius: 15
+  meltTime: 5
+  explosionTime: 0
+  explosionRadius: 2.5
+  throwForce: 250
+  smoothingAmount: 0.1
