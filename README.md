@@ -11,7 +11,7 @@ Run ths game by downloading the repository and running _Builds\Blazeline.exe
 Alternatively, you can download just the final game files here (recommended):
 https://sigalov.itch.io/blazeline
 
-## Reviews:
+## Some reviews:
 
 ##### Tiny Capybara Games:
 "Oh man I want moreee. I'd really like to see a full version of this game at some point. The music gives it a super eerie tone and it fits so well with the atmosphere. Great work"
